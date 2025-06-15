@@ -2,17 +2,6 @@
 
 This project demonstrates an innovative approach to improving Large Language Model (LLM) responses by integrating dynamic knowledge graphs. The implementation shows particular effectiveness in medical domain applications, specifically in cancer research knowledge representation.
 
-## Team Members
-
-| Name | Institution | Email |
-|------|-------------|--------|
-| Chandravallika Murarisetty | University of Windsor | murarisc@uwindsor.ca |
-| Devang Parmar | University of Windsor | parmar1c@uwindsor.ca |
-| Preshna Patel | University of Windsor | patel3ab@uwindsor.ca |
-| Pranav Shrivastava | University of Windsor | shriva51@uwindsor.ca |
-| RajKumar Patel | University of Windsor | patel9qb@uwindsor.ca |
-| Vansh Patel | University of Windsor | patel3hb@uwindsor.ca |
-
 ## Overview
 
 GraphRAG combines traditional LLM capabilities with structured knowledge representation through graphs, providing:
@@ -35,13 +24,6 @@ GraphRAG combines traditional LLM capabilities with structured knowledge represe
 - PyVis for interactive visualization
 - OpenAI/Hugging Face API integration
 - Python 3.x
-
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/rajpatel8/Graph-RAG
-cd Graph-RAG
 
 # Install required packages
 pip install networkx pyvis requests openai
@@ -122,19 +104,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Citation
-
-If you use this code in your research, please cite:
-```
-@misc{graphrag2025,
-  author = {Murarisetty, C. and Parmar, D. and Patel, P. and Shrivastava, P. and Patel, R. and Patel, V.},
-  title = {GraphRAG: Enhanced LLM Accuracy through Knowledge Graphs},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/rajpatel8/Graph-RAG}}
-}
-```
 
 ## Acknowledgments
 
